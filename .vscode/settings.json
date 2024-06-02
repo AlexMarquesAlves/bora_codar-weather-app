@@ -8,8 +8,6 @@
   "editor.guides.bracketPairs": true,
   "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
-  // "editor.formatOnPaste": true,
-  // "files.autoSave": "afterDelay",
   "editor.tabCompletion": "on",
   "editor.snippetSuggestions": "top",
 
