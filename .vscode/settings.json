@@ -11,6 +11,7 @@
   "editor.formatOnPaste": true,
   "files.autoSave": "afterDelay",
   "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
 
   // explorer
   "explorer.compactFolders": false,
@@ -38,9 +39,9 @@
 
   // zen mode
   "zenMode.hideActivityBar": true,
-  "zenMode.hideTabs": true,
   "zenMode.silentNotifications": true,
   "zenMode.fullScreen": false,
   "zenMode.centerLayout": false,
-  "zenMode.hideLineNumbers": false
+  "zenMode.hideLineNumbers": false,
+  "zenMode.showTabs": "single"
 }
