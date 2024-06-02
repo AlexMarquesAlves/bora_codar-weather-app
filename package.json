@@ -1,0 +1,19 @@
+{
+  "name": "fancy-weather-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "format": "prettier --write \"{src,apps,libs,test}/**/*.{html,css,js,ts}\"",
+    "check": "prettier --check \"{src,apps,libs,test}/**/*.{html,css,js,ts}\"",
+    "lint": "eslint \"src\" --fix",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  }
+}
